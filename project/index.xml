@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Stef van Buuren</title>
+    <link>https://stefvanbuuren.github.io/project/</link>
+    <description>Recent content in Projects on Stef van Buuren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 03 Sep 2010 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://stefvanbuuren.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BMI-meter</title>
+      <link>https://stefvanbuuren.github.io/project/bmi-meter/</link>
+      <pubDate>Fri, 03 Sep 2010 00:00:00 +0200</pubDate>
+      
+      <guid>https://stefvanbuuren.github.io/project/bmi-meter/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>FIMD Online</title>
+      <link>https://stefvanbuuren.github.io/project/flexible-imputation/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://stefvanbuuren.github.io/project/flexible-imputation/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+  </channel>
+</rss>
