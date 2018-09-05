@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/publication_types/6/</link>
+    <description>Recent content in 6 on Stef van Buuren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stefvanbuuren.name/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fully Conditional Specification</title>
+      <link>https://stefvanbuuren.name/publication/2014-01-01_buuren2015a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2014-01-01_buuren2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation of multilevel data</title>
+      <link>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth references</title>
+      <link>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007c/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Imputation by Splines</title>
+      <link>https://stefvanbuuren.name/publication/1993-01-01_vanbuuren1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/1993-01-01_vanbuuren1993/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

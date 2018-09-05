@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 1994 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stefvanbuuren.name/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>1</title>
       <link>https://stefvanbuuren.name/publication_types/1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication_types/1/</guid>
       <description></description>
@@ -24,9 +24,27 @@
     <item>
       <title>2</title>
       <link>https://stefvanbuuren.name/publication_types/2/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://stefvanbuuren.name/publication_types/5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication_types/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://stefvanbuuren.name/publication_types/6/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication_types/6/</guid>
       <description></description>
     </item>
     
