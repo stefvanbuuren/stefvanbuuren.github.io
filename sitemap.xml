@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/</loc>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://stefvanbuuren.name/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
     </url>
@@ -29,14 +37,6 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication/2018-01-01_brand2018/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1874,7 +1874,7 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication_types/5/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1910,6 +1910,42 @@
     <url>
     
       <loc>https://stefvanbuuren.name/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/mice/</loc>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/missing-data/</loc>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/multiple-imputation/</loc>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/online-book/</loc>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
