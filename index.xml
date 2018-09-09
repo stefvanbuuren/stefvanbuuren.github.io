@@ -327,20 +327,20 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Causal effect estimates from observational studies by multiple imputation of potential outcomes using MICE</title>
-      <link>https://stefvanbuuren.name/publication/2016-01-01_vanbuuren2015b/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2016-01-01_vanbuuren2015b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Investing in the first 1000 days of life for a healthy feature</title>
       <link>https://stefvanbuuren.name/publication/2016-01-01_detmar2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2016-01-01_detmar2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking back at the Gifi system of nonlinear multivariate analysis</title>
+      <link>https://stefvanbuuren.name/publication/2016-01-01_vanderheijden2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2016-01-01_vanderheijden2016/</guid>
       <description></description>
     </item>
     
