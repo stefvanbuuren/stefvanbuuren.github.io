@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Child growth on Stef van Buuren</title>
-    <link>https://stefvanbuuren.name/tags/child-growth/</link>
-    <description>Recent content in Child growth on Stef van Buuren</description>
+    <title>Malaria on Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tags/malaria/</link>
+    <description>Recent content in Malaria on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stefvanbuuren.name/tags/child-growth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefvanbuuren.name/tags/malaria/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2018-01-01_amoah2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curve matching: A data-driven technique to improve individual prediction of childhood growth</title>
-      <link>https://stefvanbuuren.name/publication/2014-01-01_vanbuuren2014d/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2014-01-01_vanbuuren2014d/</guid>
       <description></description>
     </item>
     
