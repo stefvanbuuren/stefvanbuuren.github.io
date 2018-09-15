@@ -44,15 +44,15 @@
     
     <url>
     
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_amoah2018/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <loc>https://stefvanbuuren.name/publication/2018-01-01_audigier2018/</loc>
+      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_audigier2018/</loc>
+      <loc>https://stefvanbuuren.name/publication/2018-01-01_amoah2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1963,6 +1963,15 @@
     <url>
     
       <loc>https://stefvanbuuren.name/tags/missing-data/</loc>
+      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/multilevel/</loc>
       <lastmod>2018-07-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

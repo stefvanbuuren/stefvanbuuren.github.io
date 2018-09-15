@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Missing data on Stef van Buuren</title>
-    <link>https://stefvanbuuren.name/tags/missing-data/</link>
-    <description>Recent content in Missing data on Stef van Buuren</description>
+    <title>Multilevel on Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tags/multilevel/</link>
+    <description>Recent content in Multilevel on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stefvanbuuren.name/tags/missing-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefvanbuuren.name/tags/multilevel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining multiple imputation and bootstrap in the analysis of cost-effectiveness trial data</title>
-      <link>https://stefvanbuuren.name/publication/2018-01-01_brand2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2018-01-01_brand2018/</guid>
       <description></description>
     </item>
     
