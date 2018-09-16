@@ -60,8 +60,16 @@
     
     <url>
     
+      <loc>https://stefvanbuuren.name/publication/2017-01-01_castanys2017/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://stefvanbuuren.name/publication/2017-01-01_irastorza2017/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -69,15 +77,7 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication/2017-01-01_houtman2017a/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_houtman2017b/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -85,14 +85,14 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication/2017-01-01_wit2017/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_castenys2017/</loc>
+      <loc>https://stefvanbuuren.name/publication/2017-01-01_houtman2017b/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -740,6 +740,14 @@
     
     <url>
     
+      <loc>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</loc>
+      <lastmod>2011-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://stefvanbuuren.name/publication/2011-01-01_deroos2011/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -797,14 +805,6 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication/2011-01-01_schonbeck2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1749,7 +1749,7 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997b/</loc>
-      <lastmod>1997-01-01T00:00:00+00:00</lastmod>
+      <lastmod>1997-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1921,7 +1921,7 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication_types/4/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2027,6 +2027,24 @@
     
     <url>
     
+      <loc>https://stefvanbuuren.name/tags/ilsi/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/lmic/</loc>
+      <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://stefvanbuuren.name/tags/malaria/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -2074,6 +2092,15 @@
     
       <loc>https://stefvanbuuren.name/tags/online-book/</loc>
       <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/optimal-scaling/</loc>
+      <lastmod>1997-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2153,6 +2180,15 @@
     
     <url>
     
+      <loc>https://stefvanbuuren.name/tags/small-for-gestational-age/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://stefvanbuuren.name/tags/stage-line-diagram/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -2182,6 +2218,15 @@
     
       <loc>https://stefvanbuuren.name/tags/tanner-stages/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/time-series/</loc>
+      <lastmod>1997-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

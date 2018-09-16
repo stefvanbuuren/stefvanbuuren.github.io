@@ -49,20 +49,38 @@
     </item>
     
     <item>
-      <title>Gezondheids-en veiligheidsrisico’s op de werkplek: een gezamelijke analyse van drie grote enquêtes: Europese Waarnemingspost voor risico’s samenvatting</title>
+      <title>Systematic review indicates postnatal growth in term infants born small‐for‐gestational‐age being associated with later neurocognitive and metabolic outcomes</title>
+      <link>https://stefvanbuuren.name/publication/2017-01-01_castanys2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2017-01-01_castanys2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health and safety risks at the workplace: a joint analysis of three major surveys European Risk Observatory. Executive summary</title>
       <link>https://stefvanbuuren.name/publication/2017-01-01_irastorza2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2017-01-01_irastorza2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Health and safety risks at the workplace: a joint analysis of three major surveys</title>
+      <title>Health and safety risks at the workplace: A joint analysis of three major surveys</title>
       <link>https://stefvanbuuren.name/publication/2017-01-01_houtman2017a/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2017-01-01_houtman2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical application of linear growth measurements in clinical research in low-and middle-income countries</title>
+      <link>https://stefvanbuuren.name/publication/2017-01-01_wit2017/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2017-01-01_wit2017/</guid>
       <description></description>
     </item>
     
@@ -72,24 +90,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2017-01-01_houtman2017b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Practical application of linear growth measurements in clinical research in low-and middle-income countries</title>
-      <link>https://stefvanbuuren.name/publication/2017-01-01_wit2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2017-01-01_wit2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic review indicates postnatal growth in term infants born small‐for‐gestational‐age being associated with later neurocognitive and metabolic outcomes</title>
-      <link>https://stefvanbuuren.name/publication/2017-01-01_castenys2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2017-01-01_castenys2017/</guid>
       <description></description>
     </item>
     
@@ -769,6 +769,15 @@
     </item>
     
     <item>
+      <title>MICE: Multivariate Imputation by Chained Equations in R</title>
+      <link>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Randomised Comparison of Cognitive Behavioral Therapy (CBT) and Eye Movement Desensitisation and Reprocessing (EMDR) in disaster-exposed children</title>
       <link>https://stefvanbuuren.name/publication/2011-01-01_deroos2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
@@ -837,15 +846,6 @@
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2011-01-01_schonbeck2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MICE: Multivariate Imputation by Chained Equations in R</title>
-      <link>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</guid>
       <description></description>
     </item>
     
@@ -1905,7 +1905,7 @@
     <item>
       <title>Fitting ARMA time series by structural equation models</title>
       <link>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997b/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997b/</guid>
       <description></description>
