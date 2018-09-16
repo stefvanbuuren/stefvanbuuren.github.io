@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cluster analysis on Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tags/cluster-analysis/</link>
+    <description>Recent content in Cluster analysis on Stef van Buuren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 03 Jun 1986 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stefvanbuuren.name/tags/cluster-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GROUPALS: A method to cluster objects with mixed measurement levels</title>
+      <link>https://stefvanbuuren.name/publication/1986-06-03_groupals/</link>
+      <pubDate>Tue, 03 Jun 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/1986-06-03_groupals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
