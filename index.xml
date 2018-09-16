@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>Systematic review indicates postnatal growth in term infants born small‐for‐gestational‐age being associated with later neurocognitive and metabolic outcomes</title>
+      <link>https://stefvanbuuren.name/publication/2017-01-01_castenys2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2017-01-01_castenys2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://stefvanbuuren.name/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
@@ -332,15 +341,6 @@ git submodule update --init --recursive
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefvanbuuren.name/publication/2016-01-01_detmar2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Looking back at the Gifi system of nonlinear multivariate analysis</title>
-      <link>https://stefvanbuuren.name/publication/2016-01-01_vanderheijden2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://stefvanbuuren.name/publication/2016-01-01_vanderheijden2016/</guid>
       <description></description>
     </item>
     
