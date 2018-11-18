@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/publication_types/5/</link>
+    <description>Recent content in 5 on Stef van Buuren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stefvanbuuren.name/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flexible Imputation of Missing Data. Second Edition</title>
+      <link>https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Imputation of Missing Data</title>
+      <link>https://stefvanbuuren.name/publication/2012-01-01_vanbuuren2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2012-01-01_vanbuuren2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groeidiagrammen 2010</title>
+      <link>https://stefvanbuuren.name/publication/2010-01-01_talma2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2010-01-01_talma2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Een sprong naar de maan</title>
+      <link>https://stefvanbuuren.name/publication/2006-01-01_vanbuuren2006e/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2006-01-01_vanbuuren2006e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kidscreen questionnaires: quality of life questionnaires for children and adolescents; handbook</title>
+      <link>https://stefvanbuuren.name/publication/2006-01-01_ravens2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2006-01-01_ravens2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groeidiagrammen: Handleiding bij het meten en wegen van kinderen en het invullen van groeidiagrammen</title>
+      <link>https://stefvanbuuren.name/publication/2002-01-01_fredriks2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2002-01-01_fredriks2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nieuwe methoden voor het opsporen van ziekten met behulp van het groeidiagram</title>
+      <link>https://stefvanbuuren.name/publication/2002-01-01_vanbuuren2002f/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2002-01-01_vanbuuren2002f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal scaling of time series</title>
+      <link>https://stefvanbuuren.name/publication/1990-01-01_vanbuuren1990/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/1990-01-01_vanbuuren1990/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
