@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optimal scaling on Stef van Buuren</title>
-    <link>https://stefvanbuuren.name/tags/optimal-scaling/</link>
+    <link>/tags/optimal-scaling/</link>
     <description>Recent content in Optimal scaling on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stefvanbuuren.name/tags/optimal-scaling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/optimal-scaling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optimal transformations for categorical autoregressive time series</title>
-      <link>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997/</link>
+      <link>/publication/1997-01-01_vanbuuren1997/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       
-      <guid>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997/</guid>
+      <guid>/publication/1997-01-01_vanbuuren1997/</guid>
       <description></description>
     </item>
     
