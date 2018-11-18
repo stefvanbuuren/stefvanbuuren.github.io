@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>malaria on Stef van Buuren</title>
-    <link>https://stefvanbuuren.name/tags/malaria/</link>
+    <link>/tags/malaria/</link>
     <description>Recent content in malaria on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stefvanbuuren.name/tags/malaria/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/malaria/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Geostatistical modelling of the association between malaria and child growth in Africa</title>
-      <link>https://stefvanbuuren.name/publication/2018-01-01_amoah2018/</link>
+      <link>/publication/2018-01-01_amoah2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stefvanbuuren.name/publication/2018-01-01_amoah2018/</guid>
+      <guid>/publication/2018-01-01_amoah2018/</guid>
       <description></description>
     </item>
     

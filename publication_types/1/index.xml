@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Stef van Buuren</title>
-    <link>https://stefvanbuuren.name/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stefvanbuuren.name/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Methodological Developments in Growth Modeling</title>
-      <link>https://stefvanbuuren.name/publication/2015-01-01_van2015methodological/</link>
+      <link>/publication/2015-01-01_van2015methodological/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://stefvanbuuren.name/publication/2015-01-01_van2015methodological/</guid>
+      <guid>/publication/2015-01-01_van2015methodological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple imputation as a missing data machine</title>
-      <link>https://stefvanbuuren.name/publication/1994-01-01_brand1994/</link>
+      <link>/publication/1994-01-01_brand1994/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       
-      <guid>https://stefvanbuuren.name/publication/1994-01-01_brand1994/</guid>
+      <guid>/publication/1994-01-01_brand1994/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Routine multiple imputation in statistical databases</title>
-      <link>https://stefvanbuuren.name/publication/1994-01-01_vanbuuren1994/</link>
+      <link>/publication/1994-01-01_vanbuuren1994/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       
-      <guid>https://stefvanbuuren.name/publication/1994-01-01_vanbuuren1994/</guid>
+      <guid>/publication/1994-01-01_vanbuuren1994/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Imputation by Splines</title>
-      <link>https://stefvanbuuren.name/publication/1993-01-01_vanbuuren1993/</link>
+      <link>/publication/1993-01-01_vanbuuren1993/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
       
-      <guid>https://stefvanbuuren.name/publication/1993-01-01_vanbuuren1993/</guid>
+      <guid>/publication/1993-01-01_vanbuuren1993/</guid>
       <description></description>
     </item>
     
