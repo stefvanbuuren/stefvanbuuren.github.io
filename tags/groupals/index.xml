@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GROUPALS on Stef van Buuren</title>
-    <link>/tags/groupals/</link>
+    <link>https://stefvanbuuren.name/tags/groupals/</link>
     <description>Recent content in GROUPALS on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 03 Jun 1986 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/groupals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefvanbuuren.name/tags/groupals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GROUPALS: A method to cluster objects with mixed measurement levels</title>
-      <link>/publication/1986-06-03_groupals/</link>
+      <link>https://stefvanbuuren.name/publication/1986-06-03_groupals/</link>
       <pubDate>Tue, 03 Jun 1986 00:00:00 +0000</pubDate>
       
-      <guid>/publication/1986-06-03_groupals/</guid>
+      <guid>https://stefvanbuuren.name/publication/1986-06-03_groupals/</guid>
       <description></description>
     </item>
     

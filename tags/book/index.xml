@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on Stef van Buuren</title>
-    <link>/tags/book/</link>
+    <link>https://stefvanbuuren.name/tags/book/</link>
     <description>Recent content in Book on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/book/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefvanbuuren.name/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FIMD Online</title>
-      <link>/project/flexible-imputation/</link>
+      <link>https://stefvanbuuren.name/project/flexible-imputation/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/project/flexible-imputation/</guid>
+      <guid>https://stefvanbuuren.name/project/flexible-imputation/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     

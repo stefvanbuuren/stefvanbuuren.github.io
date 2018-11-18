@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>time series on Stef van Buuren</title>
-    <link>/tags/time-series/</link>
+    <link>https://stefvanbuuren.name/tags/time-series/</link>
     <description>Recent content in time series on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jun 1997 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefvanbuuren.name/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fitting ARMA time series by structural equation models</title>
-      <link>/publication/1997-01-01_vanbuuren1997b/</link>
+      <link>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997b/</link>
       <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
       
-      <guid>/publication/1997-01-01_vanbuuren1997b/</guid>
+      <guid>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal transformations for categorical autoregressive time series</title>
-      <link>/publication/1997-01-01_vanbuuren1997/</link>
+      <link>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       
-      <guid>/publication/1997-01-01_vanbuuren1997/</guid>
+      <guid>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997/</guid>
       <description></description>
     </item>
     
