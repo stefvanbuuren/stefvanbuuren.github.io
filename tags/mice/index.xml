@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stefvanbuuren.name/tags/mice/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Missing the point: Non-convergence in iterative imputation algorithms</title>
+      <link>https://stefvanbuuren.name/publication/2020-07-12_oberman2020/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2020-07-12_oberman2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient and anesthesia characteristics of children with low pre‐incision blood pressure: A retrospective observational study</title>
+      <link>https://stefvanbuuren.name/publication/2020-04-10_pasma2020/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2020-04-10_pasma2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Global Scale for Early Development (GSED)</title>
+      <link>https://stefvanbuuren.name/publication/2019-04-15_black2019/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2019-04-15_black2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation in data that grow over time: A comparison of three strategies</title>
+      <link>https://stefvanbuuren.name/publication/2019-04-08_kavelaars2019/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2019-04-08_kavelaars2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flexible Imputation of Missing Data. Second Edition</title>
