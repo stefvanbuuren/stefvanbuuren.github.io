@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stefvanbuuren.name/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Broken Stick Model for Irregular Longitudinal Data</title>
+      <link>https://stefvanbuuren.name/publication/2020-10-14_vanbuuren2020/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2020-10-14_vanbuuren2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artifacts annotation in anethesia blood pressure data by man and machine</title>
+      <link>https://stefvanbuuren.name/publication/2020-10-01_pasma2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2020-10-01_pasma2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reference chart for knee flexion following total knee arthroplasty: A novel tool for monitoring postoperative recovery</title>

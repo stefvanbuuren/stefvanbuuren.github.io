@@ -12,6 +12,22 @@
     
     <url>
     
+      <loc>https://stefvanbuuren.name/publication/2020-10-14_vanbuuren2020/</loc>
+      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/publication/2020-10-01_pasma2020/</loc>
+      <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://stefvanbuuren.name/publication/2020-07-22_kittelson2020/</loc>
       <lastmod>2020-07-22T00:00:00+00:00</lastmod>
     </url>
@@ -1983,7 +1999,7 @@
     <url>
     
       <loc>https://stefvanbuuren.name/publication_types/2/</loc>
-      <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2172,6 +2188,24 @@
     
       <loc>https://stefvanbuuren.name/tags/tools/</loc>
       <lastmod>2010-09-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/blood-pressure/</loc>
+      <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stefvanbuuren.name/tags/brokenstick/</loc>
+      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

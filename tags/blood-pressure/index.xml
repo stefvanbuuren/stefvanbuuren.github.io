@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blood pressure on Stef van Buuren</title>
-    <link>/tags/blood-pressure/</link>
+    <link>https://stefvanbuuren.name/tags/blood-pressure/</link>
     <description>Recent content in blood pressure on Stef van Buuren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/blood-pressure/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefvanbuuren.name/tags/blood-pressure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artifacts annotation in anethesia blood pressure data by man and machine</title>
-      <link>/publication/2020-10-01_pasma2020/</link>
+      <link>https://stefvanbuuren.name/publication/2020-10-01_pasma2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2020-10-01_pasma2020/</guid>
+      <guid>https://stefvanbuuren.name/publication/2020-10-01_pasma2020/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brokenstick on Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tags/brokenstick/</link>
+    <description>Recent content in brokenstick on Stef van Buuren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stefvanbuuren.name/tags/brokenstick/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broken Stick Model for Irregular Longitudinal Data</title>
+      <link>https://stefvanbuuren.name/publication/2020-10-14_vanbuuren2020/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stefvanbuuren.name/publication/2020-10-14_vanbuuren2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
