@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>profile analysis | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tag/profile-analysis/</link>
+      <atom:link href="https://stefvanbuuren.name/tag/profile-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>profile analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>profile analysis</title>
+      <link>https://stefvanbuuren.name/tag/profile-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Broken stick model for irregular longitudinal data</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2020/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

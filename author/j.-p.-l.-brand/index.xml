@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. P. L. Brand | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/j.-p.-l.-brand/</link>
+      <atom:link href="https://stefvanbuuren.name/author/j.-p.-l.-brand/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. P. L. Brand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. P. L. Brand</title>
+      <link>https://stefvanbuuren.name/author/j.-p.-l.-brand/</link>
+    </image>
+    
+    <item>
+      <title>Combining multiple imputation and bootstrap in the analysis of cost-effectiveness trial data</title>
+      <link>https://stefvanbuuren.name/publication/brand-2018/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/brand-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully conditional specification in multivariate imputation</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A toolkit in SAS for the evaluation of multiple imputation methods</title>
+      <link>https://stefvanbuuren.name/publication/brand-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/brand-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routine multiple imputation in statistical databases</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1994/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

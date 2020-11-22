@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. M. Groenewoud | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/h.-m.-groenewoud/</link>
+      <atom:link href="https://stefvanbuuren.name/author/h.-m.-groenewoud/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. M. Groenewoud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. M. Groenewoud</title>
+      <link>https://stefvanbuuren.name/author/h.-m.-groenewoud/</link>
+    </image>
+    
+    <item>
+      <title>Seasonality of birth in patients with childhood diabetes in The Netherlands</title>
+      <link>https://stefvanbuuren.name/publication/jongbloet-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/jongbloet-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N.L.U. van Meeteren | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/n.l.u.-van-meeteren/</link>
+      <atom:link href="https://stefvanbuuren.name/author/n.l.u.-van-meeteren/index.xml" rel="self" type="application/rss+xml" />
+    <description>N.L.U. van Meeteren</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N.L.U. van Meeteren</title>
+      <link>https://stefvanbuuren.name/author/n.l.u.-van-meeteren/</link>
+    </image>
+    
+    <item>
+      <title>Reference chart for knee flexion following total knee arthroplasty: A novel tool for monitoring postoperative recovery.</title>
+      <link>https://stefvanbuuren.name/publication/kittelson-2020/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/kittelson-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of a Preoperative Risk Model for Pneumonia in Patients undergoing CABG Surgery</title>
+      <link>https://stefvanbuuren.name/publication/hulzebos-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/hulzebos-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

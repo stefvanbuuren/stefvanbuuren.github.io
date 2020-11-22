@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Stafleu | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/a.-stafleu/</link>
+      <atom:link href="https://stefvanbuuren.name/author/a.-stafleu/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Stafleu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Stafleu</title>
+      <link>https://stefvanbuuren.name/author/a.-stafleu/</link>
+    </image>
+    
+    <item>
+      <title>Association between parenting practices and children’s dietary intake, activity behavior and development of body mass index: the KOALA Birth Cohort Study</title>
+      <link>https://stefvanbuuren.name/publication/gubbels-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gubbels-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of breast-feeding and feeding on demand with child weight status up to 4 years</title>
+      <link>https://stefvanbuuren.name/publication/gubbels-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gubbels-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child-care use and the association with body mass index and overweight in children from 7 months to 2 years of age</title>
+      <link>https://stefvanbuuren.name/publication/gubbels-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gubbels-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asthmatic symptoms, physical activity, and overweight in young children: a cohort study</title>
+      <link>https://stefvanbuuren.name/publication/eijkemans-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/eijkemans-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

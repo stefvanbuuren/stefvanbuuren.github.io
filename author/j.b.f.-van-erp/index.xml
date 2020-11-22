@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.B.F. van Erp | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/j.b.f.-van-erp/</link>
+      <atom:link href="https://stefvanbuuren.name/author/j.b.f.-van-erp/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.B.F. van Erp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J.B.F. van Erp</title>
+      <link>https://stefvanbuuren.name/author/j.b.f.-van-erp/</link>
+    </image>
+    
+    <item>
+      <title>Graphical uncertainty representations for ensemble predictions</title>
+      <link>https://stefvanbuuren.name/publication/toet-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/toet-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. C. Boshuizen | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/h.-c.-boshuizen/</link>
+      <atom:link href="https://stefvanbuuren.name/author/h.-c.-boshuizen/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. C. Boshuizen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. C. Boshuizen</title>
+      <link>https://stefvanbuuren.name/author/h.-c.-boshuizen/</link>
+    </image>
+    
+    <item>
+      <title>Toward targeted hypertension screening guidelines</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doelmatigheid van opsporing en behandeling van hypertensie</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation of missing blood pressure covariates in survival analysis</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blood pressure and mortality in elderly people aged 85 and older: Community based study</title>
+      <link>https://stefvanbuuren.name/publication/boshuizen-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/boshuizen-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gehandicapten Informatie DoorDenk Systeem. GIDS prototype eigen betalingen</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

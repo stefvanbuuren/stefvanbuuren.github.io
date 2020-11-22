@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multiple imputation | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tag/multiple-imputation/</link>
+      <atom:link href="https://stefvanbuuren.name/tag/multiple-imputation/index.xml" rel="self" type="application/rss+xml" />
+    <description>multiple imputation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>multiple imputation</title>
+      <link>https://stefvanbuuren.name/tag/multiple-imputation/</link>
+    </image>
+    
+    <item>
+      <title>Broken stick model for irregular longitudinal data</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2020/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing the point: Non-convergence in iterative imputation algorithms</title>
+      <link>https://stefvanbuuren.name/publication/oberman-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/oberman-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation in data that grow over time: A comparison of three strategies</title>
+      <link>https://stefvanbuuren.name/publication/kavelaars-2019/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/kavelaars-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining multiple imputation and bootstrap in the analysis of cost-effectiveness trial data</title>
+      <link>https://stefvanbuuren.name/publication/brand-2018/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/brand-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible imputation of missing data. Second edition.</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation for multilevel data with continuous and binary variables</title>
+      <link>https://stefvanbuuren.name/publication/audigier-2018/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/audigier-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation of predictor variables using generalized additive models</title>
+      <link>https://stefvanbuuren.name/publication/de-2014-multiple/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/de-2014-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapportage veranderingen in het beweeggedrag van mbo studenten</title>
+      <link>https://stefvanbuuren.name/publication/bernaards-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/bernaards-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MICE: Multivariate Imputation by Chained Equations in R</title>
+      <link>https://stefvanbuuren.name/publication/van-buuren-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/van-buuren-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable selection under multiple imputation using the bootstrap in a prognostic study</title>
+      <link>https://stefvanbuuren.name/publication/heymans-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/heymans-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A toolkit in SAS for the evaluation of multiple imputation methods</title>
+      <link>https://stefvanbuuren.name/publication/brand-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/brand-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation of missing blood pressure covariates in survival analysis</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blood pressure and mortality in elderly people aged 85 and older: Community based study</title>
+      <link>https://stefvanbuuren.name/publication/boshuizen-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/boshuizen-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation as a missing data machine</title>
+      <link>https://stefvanbuuren.name/publication/brand-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/brand-1994/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routine multiple imputation in statistical databases</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1994/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

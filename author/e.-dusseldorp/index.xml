@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Dusseldorp | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/e.-dusseldorp/</link>
+      <atom:link href="https://stefvanbuuren.name/author/e.-dusseldorp/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Dusseldorp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Dusseldorp</title>
+      <link>https://stefvanbuuren.name/author/e.-dusseldorp/</link>
+    </image>
+    
+    <item>
+      <title>Recursive Partitioning for Missing Data Imputation in the Presence of Interaction Effects</title>
+      <link>https://stefvanbuuren.name/publication/doove-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/doove-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response Conversion for Improving Comparability of International Physical Activity Data</title>
+      <link>https://stefvanbuuren.name/publication/hopman-rock-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/hopman-rock-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

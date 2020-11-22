@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;ERC&#34; | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tag/erc/</link>
+      <atom:link href="https://stefvanbuuren.name/tag/erc/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;ERC&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;ERC&#34;</title>
+      <link>https://stefvanbuuren.name/tag/erc/</link>
+    </image>
+    
+    <item>
+      <title>Curve matching: A data-driven technique to improve individual prediction of childhood growth</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2014-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Imputation of Missing Data</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation of multilevel data</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item Imputation without specifying Scale Structure</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stage line diagram: An age-conditional reference diagram for tracking development</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving comparability of existing data by Response Conversion</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

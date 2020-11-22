@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Vink | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/g.-vink/</link>
+      <atom:link href="https://stefvanbuuren.name/author/g.-vink/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Vink</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Vink</title>
+      <link>https://stefvanbuuren.name/author/g.-vink/</link>
+    </image>
+    
+    <item>
+      <title>Missing the point: Non-convergence in iterative imputation algorithms</title>
+      <link>https://stefvanbuuren.name/publication/oberman-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/oberman-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partioned predictive mean matching as a large data multilevel imputation technique</title>
+      <link>https://stefvanbuuren.name/publication/vink-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pooling multiple imputations when the sample happens to be the population</title>
+      <link>https://stefvanbuuren.name/publication/vink-2014-g/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2014-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive mean matching imputation of semicontinuous variables</title>
+      <link>https://stefvanbuuren.name/publication/vink-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on Bayesian estimation of social educational advantage</title>
+      <link>https://stefvanbuuren.name/publication/vink-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on imputation of the ACARA data</title>
+      <link>https://stefvanbuuren.name/publication/vink-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2013-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

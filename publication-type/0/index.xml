@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/publication-type/0/</link>
+      <atom:link href="https://stefvanbuuren.name/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://stefvanbuuren.name/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Missing values: Proceedings of a symposium on incomplete data</title>
+      <link>https://stefvanbuuren.name/publication/bethlehem-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/bethlehem-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple imputation for matching data from different sources</title>
+      <link>https://stefvanbuuren.name/publication/buuren-2001-f/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/buuren-2001-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus ‘Diagnosis of short stature in childhood’ (multiple letters)</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1999-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routine multiple imputation in statistical databases</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1994/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

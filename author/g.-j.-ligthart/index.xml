@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. J. Ligthart | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/g.-j.-ligthart/</link>
+      <atom:link href="https://stefvanbuuren.name/author/g.-j.-ligthart/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. J. Ligthart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. J. Ligthart</title>
+      <link>https://stefvanbuuren.name/author/g.-j.-ligthart/</link>
+    </image>
+    
+    <item>
+      <title>Blood pressure and mortality in elderly people aged 85 and older: Community based study</title>
+      <link>https://stefvanbuuren.name/publication/boshuizen-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/boshuizen-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

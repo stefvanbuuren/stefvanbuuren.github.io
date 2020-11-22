@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>child growth | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tag/child-growth/</link>
+      <atom:link href="https://stefvanbuuren.name/tag/child-growth/index.xml" rel="self" type="application/rss+xml" />
+    <description>child growth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>child growth</title>
+      <link>https://stefvanbuuren.name/tag/child-growth/</link>
+    </image>
+    
+    <item>
+      <title>Geostatistical modelling of the association between malaria and child growth in Africa</title>
+      <link>https://stefvanbuuren.name/publication/amoah-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/amoah-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical application of linear growth measurements in clinical research in low-and middle-income countries</title>
+      <link>https://stefvanbuuren.name/publication/wit-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/wit-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trend in height of Turkish and Moroccan children living in The Netherlands</title>
+      <link>https://stefvanbuuren.name/publication/schonbeck-2015-trend/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/schonbeck-2015-trend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictie van groei vanaf jonge leeftijd: Curve matching met de TNO Groeivoorspeller [Prediction of growth from an early age: Curve matching with the TNO growth predictor]</title>
+      <link>https://stefvanbuuren.name/publication/buuren-2015-predictie/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/buuren-2015-predictie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 22nd Aschauer soiree on growth and health screening</title>
+      <link>https://stefvanbuuren.name/publication/m-2015-proceedings/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/m-2015-proceedings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auxology</title>
+      <link>https://stefvanbuuren.name/publication/auxology-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/auxology-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of the World Health Organization child growth standards: Selection of methods for attained growth curves</title>
+      <link>https://stefvanbuuren.name/publication/borghi-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/borghi-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

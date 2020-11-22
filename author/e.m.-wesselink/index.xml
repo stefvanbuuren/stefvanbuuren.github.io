@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.M. Wesselink | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/e.m.-wesselink/</link>
+      <atom:link href="https://stefvanbuuren.name/author/e.m.-wesselink/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.M. Wesselink</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>E.M. Wesselink</title>
+      <link>https://stefvanbuuren.name/author/e.m.-wesselink/</link>
+    </image>
+    
+    <item>
+      <title>Artifacts annotations in anesthesia blood pressure data by man and machine</title>
+      <link>https://stefvanbuuren.name/publication/pasma-2020-a/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/pasma-2020-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

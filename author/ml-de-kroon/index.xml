@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML de Kroon | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/ml-de-kroon/</link>
+      <atom:link href="https://stefvanbuuren.name/author/ml-de-kroon/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML de Kroon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ML de Kroon</title>
+      <link>https://stefvanbuuren.name/author/ml-de-kroon/</link>
+    </image>
+    
+    <item>
+      <title>The impact of height during childhood on the national prevalence rates of overweight.</title>
+      <link>https://stefvanbuuren.name/publication/van-dommelen-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/van-dommelen-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/publication-type/5/</link>
+      <atom:link href="https://stefvanbuuren.name/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>5</title>
+      <link>https://stefvanbuuren.name/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>Flexible imputation of missing data. Second edition.</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on Bayesian estimation of social educational advantage</title>
+      <link>https://stefvanbuuren.name/publication/vink-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on imputation of the ACARA data</title>
+      <link>https://stefvanbuuren.name/publication/vink-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vink-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT/EFSA/NDA/2010/01: Collection, collation and analysis of data in relation to reference heights and reference weights for female and male children and adolescents (0-18 years) in the EU, as well as in relation to the age of onset of puberty and the age at which different stages of puberty are reached in adolescents in the EU</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2012-d/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2012-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Imputation of Missing Data</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groeidiagrammen 2010</title>
+      <link>https://stefvanbuuren.name/publication/talma-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/talma-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response conversion for the Health Monitoring Program</title>
+      <link>https://stefvanbuuren.name/publication/van-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/van-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doelmatigheid van opsporing en behandeling van hypertensie</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Imputation by Chained Equations: MICE V1.0 User manual</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Multiple Imputation by Chained Equations of the AVO-95 Survey</title>
+      <link>https://stefvanbuuren.name/publication/oudshoorn-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/oudshoorn-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Multivariate Imputation by MICE</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1999-b/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1999-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal scaling of time series</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1990/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1990/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAM Daanen | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/ham-daanen/</link>
+      <atom:link href="https://stefvanbuuren.name/author/ham-daanen/index.xml" rel="self" type="application/rss+xml" />
+    <description>HAM Daanen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>HAM Daanen</title>
+      <link>https://stefvanbuuren.name/author/ham-daanen/</link>
+    </image>
+    
+    <item>
+      <title>Lichaamsmaattabellen voor de kledingbranche: Kinderen</title>
+      <link>https://stefvanbuuren.name/publication/buuren-2001-m-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/buuren-2001-m-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichaamsmaattabellen voor de kledingbranche: Mannen</title>
+      <link>https://stefvanbuuren.name/publication/daanen-2001-mannen/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/daanen-2001-mannen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichaamsmaattabellen voor de kledingbranche: Vrouwen</title>
+      <link>https://stefvanbuuren.name/publication/daanen-2001-vrouwen/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/daanen-2001-vrouwen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Jolani | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/s.-jolani/</link>
+      <atom:link href="https://stefvanbuuren.name/author/s.-jolani/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Jolani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Jolani</title>
+      <link>https://stefvanbuuren.name/author/s.-jolani/</link>
+    </image>
+    
+    <item>
+      <title>Multiple imputation for multilevel data with continuous and binary variables</title>
+      <link>https://stefvanbuuren.name/publication/audigier-2018/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/audigier-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputation of systematically missing predictors in an individual participant data meta-analysis: a generalized approach using MICE</title>
+      <link>https://stefvanbuuren.name/publication/jolani-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/jolani-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doubly Robust Imputation of Incomplete Binary Longitudinal Data</title>
+      <link>https://stefvanbuuren.name/publication/jolani-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/jolani-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the complete-data and nonresponse models for drawing imputations under MAR</title>
+      <link>https://stefvanbuuren.name/publication/jolani-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/jolani-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

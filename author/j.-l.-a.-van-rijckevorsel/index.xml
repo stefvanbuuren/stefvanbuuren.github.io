@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. L. A. van Rijckevorsel | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/j.-l.-a.-van-rijckevorsel/</link>
+      <atom:link href="https://stefvanbuuren.name/author/j.-l.-a.-van-rijckevorsel/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. L. A. van Rijckevorsel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. L. A. van Rijckevorsel</title>
+      <link>https://stefvanbuuren.name/author/j.-l.-a.-van-rijckevorsel/</link>
+    </image>
+    
+    <item>
+      <title>Flexible Multiple Imputation by Chained Equations of the AVO-95 Survey</title>
+      <link>https://stefvanbuuren.name/publication/oudshoorn-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/oudshoorn-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Imputation by Splines</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1993/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputation of missing categorical data by maximizing internal consistency</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-1992/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-1992/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>obesity | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/tag/obesity/</link>
+      <atom:link href="https://stefvanbuuren.name/tag/obesity/index.xml" rel="self" type="application/rss+xml" />
+    <description>obesity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>obesity</title>
+      <link>https://stefvanbuuren.name/tag/obesity/</link>
+    </image>
+    
+    <item>
+      <title>The effectiveness of Lifestyle Triple P in the Netherlands: a Randomized Controlled Trial</title>
+      <link>https://stefvanbuuren.name/publication/gerards-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gerards-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between parenting practices and children’s dietary intake, activity behavior and development of body mass index: the KOALA Birth Cohort Study</title>
+      <link>https://stefvanbuuren.name/publication/gubbels-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gubbels-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body size and growth in 0- to 4-year-old children and the relation to body size in primary school age</title>
+      <link>https://stefvanbuuren.name/publication/stocks-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/stocks-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child-care use and the association with body mass index and overweight in children from 7 months to 2 years of age</title>
+      <link>https://stefvanbuuren.name/publication/gubbels-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gubbels-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

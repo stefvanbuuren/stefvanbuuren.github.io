@@ -1,2357 +1,4896 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/project/bmi-meter/</loc>
-      <lastmod>2010-09-03T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2020-10-14_vanbuuren2020/</loc>
-      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2020-10-01_pasma2020/</loc>
-      <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2020-07-22_kittelson2020/</loc>
-      <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2020-07-12_oberman2020/</loc>
-      <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2020-04-10_pasma2020/</loc>
-      <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2020-04-01_pasma2020/</loc>
-      <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2019-10-01_weber2019/</loc>
-      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2019-09-01_toet2019/</loc>
-      <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2019-04-15_black2019/</loc>
-      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2019-04-08_kavelaars2019/</loc>
-      <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_santos2018/</loc>
-      <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_toet2018/</loc>
-      <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/project/flexible-imputation/</loc>
-      <lastmod>2018-09-03T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/</loc>
-      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_brand2018/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_audigier2018/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2018-01-01_amoah2018/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_castanys2017/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_irastorza2017/</loc>
-      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_houtman2017a/</loc>
-      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_wit2017/</loc>
-      <lastmod>2017-02-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2017-01-01_houtman2017b/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2016-01-01_detmar2016/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2016-01-01_vanderheijden2016/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2016-01-01_de2014multiple/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2016-01-01_graaff2016/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2016-01-01_hermanussen2016/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_cramm2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_dommelen2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_hayes2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_vandommelen2014/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_dewilde2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_jolani2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_paulussen2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_vanbuuren2015a/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_van2015methodological/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_joustra2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_vink2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_ong2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_buuren2015predictie/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_m2015proceedings/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_gerards2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_schonbeck2015/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2015-01-01_schonbeck2015trend/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_hermanussen2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_dusseldorp2014b/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vanbuuren2014d/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_jolani2014b/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_jolani2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_schuller2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_buuren2015a/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vanbuuren2014gc/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_koopmans2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vandommelen20141/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vandommelen2014a/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vink2014a/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vink2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_doove2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vanbuuren2014b/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_daanen2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vanbuuren2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-07-01_vandommelen2014c/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_fleuren2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_vandommelen2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2014-01-01_hulzebos2014/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_jolani2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_koopmans2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_liem2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_tenvergert-jordanse.m.j2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_vink2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_dewilde2012/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_wit2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_dekroon2013c/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_vink2013b/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_vink2013c/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_bongers2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_schonbeck2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_dewilde2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_dewilde2013a/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_talma2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2013-01-01_auxology2013/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_vandommelen2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_vanbuuren2012d/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_hermanussen2012a/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_denhollander-gijsman2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_hermanussen2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_vanbuuren2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_millonig2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_bocca-tjeertes2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_gameren-oosterom2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_emmerik2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_vanbuuren2012c/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_dewilde20121/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_teune2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_bernaards2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_hopman-rock2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2012-01-01_milani2012/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011a/</loc>
-      <lastmod>2011-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_deroos2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_geraedts2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_gubbels2011a/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_gubbels2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_stocks2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_devries2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_dekroon2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_schonbeck2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_vanbuuren2011b/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_dekroon2011a/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2011-01-01_woldringh2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_aarts2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_gubbels2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_vanbuuren2010a/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_menke2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_talma2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_hermanussen2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_kamphuis2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_vanbuuren2010b/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_heerdink-obenhuijsen2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_dekroon2010d/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_dekroon2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2010-01-01_heymans2010/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_vanwouwe2009/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_vanbuuren2009a/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_vandommelen2009/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_bannink2009/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_heymans2009/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_vanbuuren2009/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2009-01-01_vlieger2009/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_eijkemans2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_grote2008a/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_borghi2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vandommelen2007b/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vanbuuren2008d/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vandommelen2008a/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_dekroon2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vanbuuren2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_weisglas2009/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_jacobusse2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vandommelen2008b/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vanwouwe2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_zaadstra2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_grote2008/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2008-01-01_vanbuuren2008c/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_jacobusse2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_dousma2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007b/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vandommelen2007f/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007c/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007a/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007e/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vandenhurk2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vandommelen2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_grote2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_heymans2007b/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_heymans2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2007-01-01_vanbuuren2007/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_razzaghy-azar2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_jacobusse2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_vanbuuren2006f/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_borghi2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_vanbuuren2006e/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_vanbuuren2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_vandenhurk2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_vandenhurk2006c/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_ravens2006/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2006-01-01_vanbuuren2006a/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_fredriks2005a/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_kalanda2005a/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_kalanda2005b/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_fredriks2005/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_kalanda2005/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_vanbuuren2005/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_vandommelen2005/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2005-01-01_fredriks2005b/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vanbuuren2004a/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vanbuuren2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vandommelen2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_fredriks2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_hulst2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vanbuuren2004b/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_van2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vanwouwe2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vanwezel2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vanbuuren2004d/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2004-01-01_vestering2004/</loc>
-      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_brand2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_vanbuuren2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_vanbuuren2003g/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_fredriks2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_dewilde2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_schirm2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2003-01-01_vanderheijden2003/</loc>
-      <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2002-01-01_vanbuuren2002i/</loc>
-      <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2002-01-01_fredriks2002/</loc>
-      <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2002-01-01_vanbuuren2002f/</loc>
-      <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2002-01-01_vanbuuren2002/</loc>
-      <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2002-01-01_vanderheijden2002/</loc>
-      <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2002-01-01_vanbuuren2002h/</loc>
-      <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_verhoeff2001/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_fredriks2001a/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_vanbuuren2001/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_hirasing2001/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_vanderheijden2001b/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_fredriks2001/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_mul2001a/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_vanbuuren2001a/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_vanbuuren2001c/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2001-01-01_vanbuuren2001b/</loc>
-      <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-08-19_bruining2000/</loc>
-      <lastmod>2000-08-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-01-01_fredriks2000a/</loc>
-      <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-01-01_hildebrandt2000/</loc>
-      <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-01-01_fredriks2000/</loc>
-      <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-01-01_wal2000/</loc>
-      <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-01-01_vanbuuren2000/</loc>
-      <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/2000-01-01_hopman-rock2000/</loc>
-      <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1999-01-01_vanbuuren1999a/</loc>
-      <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1999-01-01_oudshoorn1999/</loc>
-      <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1999-01-01_vanbuuren1999b/</loc>
-      <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1999-01-01_vanbuuren1999/</loc>
-      <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1998-01-01_boshuizen1998/</loc>
-      <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1998-01-01_vanbuuren1998/</loc>
-      <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1998-01-01_jongbloet1998/</loc>
-      <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1998-01-01_vanbuuren1998a/</loc>
-      <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997b/</loc>
-      <lastmod>1997-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1997-01-01_vanbuuren1997/</loc>
-      <lastmod>1997-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1996-01-01_demaat1996/</loc>
-      <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1996-01-01_vanbuuren1996a/</loc>
-      <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1996-01-01_hirasing1996/</loc>
-      <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1995-01-01_hirasing1995/</loc>
-      <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1994-01-01_herngreen1994/</loc>
-      <lastmod>1994-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1994-01-01_ruwaard1994/</loc>
-      <lastmod>1994-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1994-01-01_brand1994/</loc>
-      <lastmod>1994-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1994-01-01_vanbuuren1994/</loc>
-      <lastmod>1994-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1993-01-01_vanbuuren1993/</loc>
-      <lastmod>1993-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1992-01-01_vanbuuren1992b/</loc>
-      <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1992-01-01_vanbuuren1992/</loc>
-      <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1990-01-01_vanbuuren1990/</loc>
-      <lastmod>1990-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1989-01-01_vanbuuren1989/</loc>
-      <lastmod>1989-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1986-06-03_groupals/</loc>
-      <lastmod>1986-06-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication/1984-01-01_buikhuisen1984/</loc>
-      <lastmod>1984-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/0/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/1/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/2/</loc>
-      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/3/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/4/</loc>
-      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/5/</loc>
-      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/6/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/book/</loc>
-      <lastmod>2018-09-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/d-score/</loc>
-      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/groupals/</loc>
-      <lastmod>1986-06-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/ilsi/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/lmic/</loc>
-      <lastmod>2017-02-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/post/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/project/</loc>
-      <lastmod>2010-09-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/publication_types/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/rasch-model/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/tanner-stages/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/tools/</loc>
-      <lastmod>2010-09-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/blood-pressure/</loc>
-      <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/brokenstick/</loc>
-      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/child-development/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/child-growth/</loc>
-      <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/cluster-analysis/</loc>
-      <lastmod>1986-06-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/curve-matching/</loc>
-      <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/malaria/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/mice/</loc>
-      <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/missing-data/</loc>
-      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/multilevel/</loc>
-      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/multiple-imputation/</loc>
-      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/online-book/</loc>
-      <lastmod>2018-07-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/optimal-scaling/</loc>
-      <lastmod>1997-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/small-for-gestational-age/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/stage-line-diagram/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stefvanbuuren.name/tags/time-series/</loc>
-      <lastmod>1997-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/2/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/authors/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2020/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/brokenstick/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/critical-periods/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/curve-interpolation/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/curve-matching/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/growth-curve-analysis/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/linear-b-spline/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/linear-mixed-model/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/multiple-imputation/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/personalised-estimation/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/profile-analysis/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication_types/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/r/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/repeated-measures/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/stef-van-buuren/</loc>
+    <lastmod>2020-11-13T16:40:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tags/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/time-to-time-correlation/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/two-step-method/</loc>
+    <lastmod>2020-11-06T16:46:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/artifact/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/pasma-2020-a/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/blood-pressure/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.m.-wesselink/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.c.-de-graaff/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-pasma/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.a.-van-klei/</loc>
+    <lastmod>2020-11-09T21:57:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.j.-kittelson/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-elings/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.c.-christensen/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.e.-stevens-lapsley/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-colborn/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/knee-flexion/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.l.u.-van-meeteren/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/reference-chart/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/kittelson-2020/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.j.-hoogeboom/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/total-knee-arthroplasty/</loc>
+    <lastmod>2020-11-09T20:51:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/1/</loc>
+    <lastmod>2020-11-09T20:51:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/convergence/</loc>
+    <lastmod>2020-11-09T20:51:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-vink/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.i.-oberman/</loc>
+    <lastmod>2020-11-09T20:51:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/mice/</loc>
+    <lastmod>2020-11-09T20:51:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/oberman-2020/</loc>
+    <lastmod>2020-11-09T20:51:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/pasma-2020/</loc>
+    <lastmod>2020-11-09T20:50:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-health/</loc>
+    <lastmod>2020-11-09T20:52:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.m.-peelen/</loc>
+    <lastmod>2020-11-09T20:52:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/pasma-2020-b/</loc>
+    <lastmod>2020-11-09T20:52:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-van-den-broek/</loc>
+    <lastmod>2020-11-09T20:52:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.m.-weber/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-lozoff/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-hanlon/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-development/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/d-score/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/equate-groups/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/gsed/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i.-eekhout/</loc>
+    <lastmod>2020-11-09T20:56:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.d.-hamadani/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-ratsifandrihamanana/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-richter/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.c.h.-fernald/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-rubio-codina/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.c.-araujo/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.m.-black/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/rasch-model/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.m.-chang/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.m.-grantham-mcgregor/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.m.-karam/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.p.-walker/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/weber-2019/</loc>
+    <lastmod>2020-11-09T20:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-raikes/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-weber/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-mccoy/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-fink/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-lancaster/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-mccray/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-cuartas/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-bromley/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-hepworth/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-gladstone/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-janus/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-waldman/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-kariger/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-walker/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-dua/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/black-2019/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v.a.-cavallera/</loc>
+    <lastmod>2020-11-09T20:53:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/append/</loc>
+    <lastmod>2020-11-09T20:53:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.r.-van-ginkel/</loc>
+    <lastmod>2020-11-09T20:53:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/longitudinal-data/</loc>
+    <lastmod>2020-11-09T20:53:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/kavelaars-2019/</loc>
+    <lastmod>2020-11-09T20:53:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/re-impute/</loc>
+    <lastmod>2020-11-09T20:53:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/x.m.-kavelaars/</loc>
+    <lastmod>2020-11-09T20:53:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-toet/</loc>
+    <lastmod>2020-11-05T23:50:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.m.-boertjes/</loc>
+    <lastmod>2020-11-05T23:50:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/toet-2019/</loc>
+    <lastmod>2020-11-05T23:50:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.b.f.-van-erp/</loc>
+    <lastmod>2020-11-05T23:50:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/bootstrap/</loc>
+    <lastmod>2020-11-09T20:55:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/brand-2018/</loc>
+    <lastmod>2020-11-09T20:55:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/cost-effectiveness/</loc>
+    <lastmod>2020-11-09T20:55:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-p.-l.-brand/</loc>
+    <lastmod>2020-11-09T20:55:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-le-cessie/</loc>
+    <lastmod>2020-11-09T20:55:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-b.-van-den-hout/</loc>
+    <lastmod>2020-11-09T20:55:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/many-others/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/bmi/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/gestational-age/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/santos-2018/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/pregnancy/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-santos/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v.w.v.-jaddoe/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/weight-gain/</loc>
+    <lastmod>2020-11-09T20:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/5/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2018/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/missing-data/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/multilevel-imputation/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/online-book/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/fully-conditional-specification/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i.r.-white/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-carpenter/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/joint-modelling/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-quartagno/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-resche-rigon/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/audigier-2018/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-jolani/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/sporadic-missing-data/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/systematic-missing-data/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.p.a.-debray/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v.-audigier/</loc>
+    <lastmod>2020-11-09T20:55:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-amoah/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-growth/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.j.-hayes/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-giorgi/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/amoah-2018/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/geostatistics/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/low-and-middle-income-countries/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/malaria/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.j.-diggle/</loc>
+    <lastmod>2020-11-09T20:56:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/stunting/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.m.-denno/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/environmental-enteric-dysfunction/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.h.-himes/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.m.-wit/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.s.-suchdev/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/wit-2017/</loc>
+    <lastmod>2020-11-09T20:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/4/</loc>
+    <lastmod>2020-11-13T16:47:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-venema/</loc>
+    <lastmod>2020-11-09T20:56:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/irastorza-2017/</loc>
+    <lastmod>2020-11-09T20:56:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i.l.d.-houtman/</loc>
+    <lastmod>2020-11-09T20:56:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.m.c.-bakhuys-roozeboom/</loc>
+    <lastmod>2020-11-09T20:56:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/x.-irastorza/</loc>
+    <lastmod>2020-11-09T20:56:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/adiposity/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-koletzko/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-castanysmunoz/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-castanedagutierrez/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.m.-van-der-beek/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-kennedy/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.k.-ong/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.m.-godfrey/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-schoemaker/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/neurodevelopment/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/postnatal-growth/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-rueda/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-forsyth/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.e.-ozanne/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/small-for-gestational-age/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/castanys-2017/</loc>
+    <lastmod>2020-11-09T20:58:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/gamlss/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-spiess/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/de-2014-multiple/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/predictive-mean-matching/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-de-jong/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/height/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/moroccan-children/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-van-dommelen/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.a.-hirasing/</loc>
+    <lastmod>2020-11-13T16:32:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/schonbeck-2015-trend/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/turkish-children/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/y.-schonbeck/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/others/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-anisimova/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-gomula/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.d.-camara/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/bj-middelkoop/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-abmann/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dommelen-2015/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.j.-terlouw/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.j.d.-wijnmalen/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.m.-stasinopoulos/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hayes-2015/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-castaneda-gutierrez/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.m.-van-der-plas/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.z.-godina/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.j.m.-hamers/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.o.-ter-kuile/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-lazendic/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/growth-charts/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-koffijberg/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.a.-delemarre-van-de-waal/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/de-wilde-2015/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jolani-2015/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-goede/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.s.-gubbels/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/ja-de-wilde/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-godfrey/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.g.m.-moons/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.h.m.-van-der-goot/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/lms/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-fewtrell/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-hassan/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-hermanussen/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.a.-elhusseini/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.e.-latulippe/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.h.-el-shabrawi/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.h.-schoemaker/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.p.-lhoir/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.r.-sanders/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.w.j.-jansen/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2015-a/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-2015-methodological/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/multilevel/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.k.-de-vries/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/joustra-2015/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/obesity/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/orchidometer/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/overweight/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p-van-dommelen/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.c.-dagnelie/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vink-2015/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/ong-2015/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/buuren-2015-predictie/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/prediction/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/m-2015-proceedings/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.a.-bezemer/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.a.-rigby/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/references/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.a.-reijneveld/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.d.-joustra/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.m.p.l.-gerards/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.p.j.-kremers/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/screening/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/testicular-volume/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/gerards-2015/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/thinness/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/schonbeck-2015/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/triple-p/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/ultrasound/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/underweight/</loc>
+    <lastmod>2020-11-06T09:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-oostdijk/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.w.m.-hack/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/erc/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/math.st/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/stat.co/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/stat.th/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/6/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a-holmgren/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a-huiji/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a-lehmann/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-brutel-de-la-riviere/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-gigengack-baars/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/aa-schuller/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hermanussen-2014/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/af-nierop/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/aj-van-der-beek/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b-bogin/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c-assmann/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c-scheffler/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/cm-bernaards/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dusseldorp-2014/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/cp-loh/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2014-d/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d-groth/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jolani-2014-b/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jolani-2014/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e-godina/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e-lindeman/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e-salama/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e-zadzinska/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-dusseldorp/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.h.j.-hulzebos/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/eh-hulzebos/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/elise-dusseldorp/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/schuller-2014/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/buuren-2015-a/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-buuren-2014-gc/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/hc-de-vet/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i-varela-silva/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/koopmans-2014/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-tutkuviene/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-vignerova/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-pannekoek/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.v.-klarenbosch/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/jd-veldhuis/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k-staub/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k-valkenet/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l-koopmans/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.e.-frank/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.l.-doove/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/le-frank/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/lenneke-van-genugten/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-brabec/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-el-shabrawi/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-hermanussen/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-roelants/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-von-salisch/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.a.h.-fleuren/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/marieke-w-verheijden/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/mj-low/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/ml-de-kroon/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n-cameron/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandommelen-2014-a/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/nl-van-meeteren/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.j.m.-helders/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/pepijn-van-empelen/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vink-2014-g/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vink-2014/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r-mumm/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r-panczak/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r-perenboom/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r-pfaffle/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/ra-hirasing/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/doove-2014/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-buuren-2014-b/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s-gervickaite/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s-jolani/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s-koziel/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-van-buuren/</loc>
+    <lastmod>2020-11-22T12:19:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t-meitinger/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t-satake/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.g.w.m.-paulussen/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-buuren-2014/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-dommelen-2014-a/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fleuren-2014/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-dommelen-2014/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v-tassenaar/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hulzebos-2014/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/vh-hildebrandt/</loc>
+    <lastmod>2020-11-06T09:12:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/y-schonbeck/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a-carrascosa/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.f.-bos/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.f.-de-winter/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/ac-hokken-koelega/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/auxology-2013/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/auxology/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b-bakker/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b-kristrom/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/bc-bongers/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c-bernaards/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c-deal/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jolani-2013/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/koopmans-2013/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e-schoenau/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.m.j.-ten-vergert-jordans/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/et-liem/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/gerko-vink/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/liem-2013/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h-jung/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h-talma/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/hcw-de-vet/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/tenvergert-jordanse-m-j-2013/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i.f.a.-bocca-tjeertes/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-dahlgren/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-kleintjens/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-obeid/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.j.-hox/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.m.-kerstjens/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/jm-wit/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k-albertsson-wikland/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l-audi/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l-de-graaff/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-e.-frank/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/la-silverman/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-jaspers/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/mb-ranke/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vink-2013/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p-bang/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p-cohen/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/pe-clayton/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/wit-2013/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/pj-sauer/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/pjm-helders/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-a.-hirasing/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/reference-values/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vink-2013-b/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vink-2013-c/</loc>
+    <lastmod>2020-11-06T09:12:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/rg-rosenfeld/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/rp-stolk/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s-cianfarani/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s-zandbergen-harlaar/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-e.-buitendijk/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/sa-reijneveld/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/si-de-vries/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/steep-ramp-test/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/stef-van-buuren/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t-takken/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/bongers-2013/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/schonbeck-2013/</loc>
+    <lastmod>2020-11-06T09:12:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/de-wilde-2013/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/de-wilde-2013-a/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/talma-2013/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v-hildebrandt/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/wf-blum/</loc>
+    <lastmod>2020-11-06T09:12:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandommelen-2012/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-ghosh/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-lehmann/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-m.-oudesluijs-murphy/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-millonig/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-mooijaart/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-ruetten/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-sartorio/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-wulf/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.g.-van-wassenaar/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.m.j.-chorus/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-bogin/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-lackner/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-mandl/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.c.-opmeer/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.j.w.-mol/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-assmann/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-a%C3%9Fmann/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-j.-h.-kelnar/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-m.-bernaards/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-m.-renders/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-scheffler/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2012-d/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.d.-martin/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hermanussen-2012-a/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/denhollander-gijsman-2012/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hermanussen-2012/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/dutch-pop-collaborative-study-group/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-de-beurs/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-godina/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-jopp/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-wilschut/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.e.-salama/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.m.-ten-vergert/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/extra-uterine-growth/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-g.-zitman/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.j.-ruhli/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2012/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-bencini/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-bona/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-faglia/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-gilli/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-grugni/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-radetti/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.w.-jacobusse/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/bocca-tjeertes-2012/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.b.m.-gameren-oosterom/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.h.-thodberg/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/gameren-oosterom-2012/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/emmerik-2012/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i.-nicoletti/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-kist-van-holthe/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-m.-h.-buckler/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-meier/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-p.-van-wouwe/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-tutkuviene/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.l.-boldsen/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.m.-kerstens/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-hoppenbrouwers/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-j.-wardenaar/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-staub/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-benso/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.s.-lieberman/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-e.-den-hollander-gijsman/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-el-shabrawi/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-hoedemaeker/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-hopman-rock/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-kaczmarek/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-roelants/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-van-de-veer/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.h.-mcintyre/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.j.-teune/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2012-c/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-baldanzini/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-j.-van-der-wee/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-marazzi/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.m.a.-van-emmerik/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/o.h.-van-der-baan-slootweg/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-b.-juliusson/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-blaha/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/teune-2012/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/preterm-charts/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/millonig-2012/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-bjerknes/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-hauspie/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-massink/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-perenboom/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/bernaards-2012/</loc>
+    <lastmod>2020-11-06T09:12:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hopman-rock-2012/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-goldbohm/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-henne/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-kirchengast/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-milani/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-gorris/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-satake/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/milani-2012/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/u.-wittwer-backofen/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/u.-woitek/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v.-schonfeld-janewa/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/growth/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/netherlands/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/deroos-2011/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-de-jongh/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-m.-bulk-bunschoten/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-stafleu/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/acceleration/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/adolescent/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/adolescent-development/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/adult/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/age-factors/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/ankle/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/geraedts-2011/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/gubbels-2011-a/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/gubbels-2011/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-bakker/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/birth-weight/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/body-height/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/body-mass-index/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/body-size/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/stocks-2011/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/body-weight/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/breast-feeding/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-de-roos/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-thijs/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/caloric-restriction/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-behavior/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/decision-support-techniques/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/developing-countries/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/diet/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-j.-geraedts/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-noorthoorn/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/devries-2011/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-galindo-garre/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/fertilization-in-vitro/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-a.-zielhuis/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-h.-woldringh/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/growth-disorders/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-talma/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/health-surveys/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/hip/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dekroon-2011/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/schonbeck-2011/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-a.-kremer/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-c.-hendriks/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-c.-seidell/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-caliebe/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-m.-wit/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-s.-gubbels/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-van-klingeren/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-groothuis-oudshoorn/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-a.-kollee/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-h.-engbers/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-b.-ranke/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-den-hollander-gijsman/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-l.-de-kroon/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-p.-buskermolen/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-buuren-2011-a/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/motor-activity/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2011-b/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-k.-de-vries/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/neural-networks-computer/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-c.-dagnelie/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/parent-child-relations/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-a.-goldbohm/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-greenwald/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-visser/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/reproducibility/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/roc-curve/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-i.-de-vries/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-p.-kremers/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/sperm-injections/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-stocks/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dekroon-2011-a/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v.-h.-hildebrandt/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/waist-circumference/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/waist-hip-ratio/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/woldringh-2011/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/7/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/aarts-2010/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-s.-van-trotsenburg/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/ancova/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/androgens/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-j.-otten/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-geiger/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-meigen/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-westerlaken/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/causal-effect/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/gubbels-2010/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/chronic-disease/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/counterfactuals/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-l.-knol/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/disability-evaluation/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/dose-response-relationship/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/double-blind-method/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-aarts/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-f.-gevers/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-j.-c.-coenen-van-vroonhoven/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2010-a/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/menke-2010/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-j.-ruhli/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-f.-de-stefano/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-r.-zandwijken/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/talma-2010/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hermanussen-2010/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/kamphuis-2010/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-a.-delemarre-van-de-waal/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-c.-de-vet/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-m.-reeser/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/health-care-surveys/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/human-growth-hormone/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2010-b/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-a.-tresguerres/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-j.-waelkens/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-l.-boldsen/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-r.-anema/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/heerdink-obenhuijsen-2010/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-a.-menke/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-s.-lieberman/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/longitudinal-studies/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/low-back-pain/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-a.-de-ridder/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-jansen/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-kamphuis/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-macintyre/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-w.-heymans/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-h.-heerdink-obenhuijsen/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-heerdink-obenhuijsen/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-h.-dejonckere/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-h.-verkerk/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/patient-dropouts/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/potential-outcomes/</loc>
+    <lastmod>2020-11-06T09:12:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/prognosis/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/prospective-studies/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-j.-odink/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-m.p.f.-de-muinck-keizer-schrama/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-c.-sas/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/heymans-2010/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dekroon-2010/</loc>
+    <lastmod>2020-11-06T09:12:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/turner-syndrome/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/v.-d.-sonkin/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-h.-stokvis-brantsma/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-van-mechelen/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/world-health-organization/</loc>
+    <lastmod>2020-11-06T09:11:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/antimalarials/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/asia-southeastern/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanwouwe-2009/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-i.-lanting/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-van-sassen/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-j.-hayes/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-j.-terlouw/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-m.-stasinopoulos/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-m.-n.-bannink/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2009-a/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-h.-de-jong/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-o.-ter-kuile/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-c.-w.-de-vet/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/health-status/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-c.-l.-ooms/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-lequin/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-e.-treffers/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-g.-h.-mulder/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/preschool/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/bannink-2009/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/puberty-plot/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-a.-rigby/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/heymans-2009/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-m.-p.-f.-de-muinck-keizer-schrama/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2009/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/tanner-stages/</loc>
+    <lastmod>2020-11-06T09:12:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/association/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/health/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/human/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-g.-ketel/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-m.-j.-chorus/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-w.-van-der-vaart/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/eijkemans-2008/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-m.-zaadstra/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-i.-boomsma/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/grote-2008-a/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-c.-kuipers/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-k.-grote/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-w.-dekker/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-a.-de-jonge/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-jacobusse/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-w.-jacobusse/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandommelen-2008-a/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-a.-moll/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-kalsbeek/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/i.-bakker/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dekroon-2008/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2008/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-m.-van-noort/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-c.-m.-de-gunst/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-eijkemans/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-l.-a.-de-kroon/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-mommers/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jacobusse-2008/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanwouwe-2008/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/zaadstra-2008/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/grote-2008/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2008-c/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/development/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/multiple-imputation-erc/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-m.-lodder-van-der-kooij/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jacobusse-2007/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/dousma-2007/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2007-b/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2007-c/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-s.-a.-heijmans/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-m.-breuning-boers/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-van-ede/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-van-den-hurk/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/keizer-schramas.-m.-muinck/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-dousma/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2007-a/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-wierdsma/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandenhurk-2007/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandommelen-2007/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/grote-2007/</loc>
+    <lastmod>2020-11-06T09:11:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-w.-de-vries/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/heymans-2007/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2007/</loc>
+    <lastmod>2020-11-06T09:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/imputation-erc/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-moghimi/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-w.-onyango/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-zangeneh-kazemi/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/razzaghy-azar-2006/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jacobusse-2006/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-g.-m.-groothuis-oudshoorn/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-garza/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/borghi-2006/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-b.-rubin/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-a.-frongillo/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-borghi/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/for-the-who-multicentre-growth-reference-study-group/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2006/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/growth-standard/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-c.-boshuizen/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-mohammad-sadeghi/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-pan/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-c.-martines/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-van-den-broeck/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-grummer-strawn/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-molinari/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-zahedi-shoolami/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-de-onis/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-montazer/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-razzaghy-azar/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-sadigh/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-golnari/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-martorell/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-a.-reijneveld/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-m.-fereshtehnejad/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/smoothing/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2006-a/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/wormplot/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/birth/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/children/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/models/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-m.-fredriks/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-tennant/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2005-a/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/kalanda-2005-b/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/kalanda-2005-a/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2005/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-f.-kalanda/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-j.-brabin/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.f.-kalanda/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.j.-brabin/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/buurens.-van/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/kalanda-2005/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.-h.-verhoeff/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/f.h.-verhoeff/</loc>
+    <lastmod>2020-11-06T09:12:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-r.-j.-zandwijken/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2005/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandommelen-2005/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-fekkes/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2005-b/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-h.-m.-jkman-neerincx/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-eyres/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-p.-verloove-vanhorick/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/singr.-a.-hira/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-j.-m.-van-heel/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2004/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-j.-a.-bonnemaijer-kerckhoffs/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-tibboel/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vandommelen-2004/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-ller/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2004/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-hulst/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-van-goudoever/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-joosten/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-zimmermann/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hulst-2004/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2004-b/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/n.-vestering/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/van-2004/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-e.-r.-jeurissen/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2004-d/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vestering-2004/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-hop/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/brand-2003/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2003/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-s.-gelsema/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-schirm/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-verrips/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-tobi/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2003/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-radder/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-g.-m.-van-der-heijden/</loc>
+    <lastmod>2020-11-13T15:26:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/schirm-2003/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/sas/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/simulation/</loc>
+    <lastmod>2020-11-06T09:11:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanderheijden-2003/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-p.-van-puijenbroek/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-w.-van-der-hofstede/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2002/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanderheijden-2002/</loc>
+    <lastmod>2020-11-06T09:11:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication-type/0/</loc>
+    <lastmod>2020-11-13T16:40:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/verhoeff-2001/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/mattiazzo-2001/</loc>
+    <lastmod>2020-11-13T15:51:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2001-a/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanrijckevorsel-2001/</loc>
+    <lastmod>2020-11-13T15:47:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/cw-berlage/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-mul/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2001/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/gf-mattiazzo/</loc>
+    <lastmod>2020-11-13T15:51:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-m.-e.-miedema/</loc>
+    <lastmod>2020-11-13T15:26:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/ham-daanen/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/hm-reeser/</loc>
+    <lastmod>2020-11-13T15:51:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hirasing-2001/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-hamoen/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-bethlehem/</loc>
+    <lastmod>2020-11-13T15:55:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-c.-witteman/</loc>
+    <lastmod>2020-11-06T09:11:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-j.-radder/</loc>
+    <lastmod>2020-11-13T15:26:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/jla-van-rijckevorsel/</loc>
+    <lastmod>2020-11-13T15:47:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/jp-van-wouwe/</loc>
+    <lastmod>2020-11-13T15:51:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/l.-chimsuku/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/buuren-2001-m-1/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/daanen-2001-mannen/</loc>
+    <lastmod>2020-11-13T15:08:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/daanen-2001-vrouwen/</loc>
+    <lastmod>2020-11-13T15:08:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-crietee/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-de-kleijn-de-vrankrijker/</loc>
+    <lastmod>2020-11-13T15:47:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/ma-van-osch/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/bethlehem-2001/</loc>
+    <lastmod>2020-11-13T15:55:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/mm-bakker/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanderheijden-2001-b/</loc>
+    <lastmod>2020-11-13T15:26:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-kazembe/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2001/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/mul-2001-a/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r-hacquebord/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-l.-broadhead/</loc>
+    <lastmod>2020-11-06T09:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/raahm-rijs/</loc>
+    <lastmod>2020-11-13T15:09:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2001-a/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2001-c/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s-van-buuren/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2001-b/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.m.-fredriks/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/bruining-2000/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b-roep/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2000-a/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hildebrandt-2000/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/fredriks-2000/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-g.-uitenbroek/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-brugman/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.j.-bruining/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/wal-2000/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/hj-aanstod/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j-van-den-broek/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-f.-meulmeester/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-i.-roper/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-batstra/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m-de-ridder/</loc>
+    <lastmod>2020-11-13T16:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-de-kleijn-de-vrankrijker/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-douwes/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-f.-wal/</loc>
+    <lastmod>2020-11-06T09:12:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-j.-roede/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/buuren-2001-f/</loc>
+    <lastmod>2020-11-13T16:40:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-2000/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hopman-rock-2000/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-j.-beuker/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-j.-f.-burgmeijer/</loc>
+    <lastmod>2020-11-06T09:11:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-van-den-berg/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/s.-g.-van-den-heuvel/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/childhood/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/b.-rikken/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/teirlinck-1999/</loc>
+    <lastmod>2020-11-13T16:47:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.j.p.m.-teirlinck/</loc>
+    <lastmod>2020-11-13T16:47:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1999-a/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-l.-knook/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.e.-van-haagen/</loc>
+    <lastmod>2020-11-13T16:32:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/oudshoorn-1999/</loc>
+    <lastmod>2020-11-06T09:11:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1999-b/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.a.-de-jonge/</loc>
+    <lastmod>2020-11-13T16:32:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-a.-m.-merkx/</loc>
+    <lastmod>2020-11-06T09:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-l.-a.-van-rijckevorsel/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.p.-van-wouwe/</loc>
+    <lastmod>2020-11-13T16:32:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1999/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/haagen-1999/</loc>
+    <lastmod>2020-11-13T16:32:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.j.f.-burgmeijer/</loc>
+    <lastmod>2020-11-13T16:32:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/boshuizen-1998/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-p.-zwanikken/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-buljevac/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-j.-izaks/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-j.-ligthart/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1998/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-m.-groenewoud/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-g.-h.-rhodes/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/mortality/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/p.-h.-jongbloet/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-j.-m.-perenboom/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/jongbloet-1998/</loc>
+    <lastmod>2020-11-06T09:11:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1998-a/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1997/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/a.-e.-r.-arnold/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-kluft/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/d.-ruwaard/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1996/</loc>
+    <lastmod>2020-11-06T09:11:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/h.-s.-miedema/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/m.-p.-m.-de-maat/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/demaat-1996/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-r.-m.-de-groot/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1996-a/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/hirasing-1996/</loc>
+    <lastmod>2020-11-06T09:11:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/wilsonj.-h.-paul/</loc>
+    <lastmod>2020-11-06T09:11:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/architecture/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-gelsema/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-m.-van-mulligen/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-j.-bruining/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/g.-j.-vaandrager/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/herngreen-1994/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/ruwaard-1994/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-brand/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-c.-van-wieringen/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-d.-reerink/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-h.-ruys/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/k.-barker/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/brand-1994/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-a.-geerdink/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/r.-j.-heine/</loc>
+    <lastmod>2020-11-06T09:11:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1994/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/t.-timmers/</loc>
+    <lastmod>2020-11-06T09:11:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-p.-herngreen/</loc>
+    <lastmod>2020-11-06T09:11:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1993/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/imputation/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1992-b/</loc>
+    <lastmod>2020-11-12T22:35:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1992/</loc>
+    <lastmod>2020-11-06T09:11:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/j.-de-leeuw/</loc>
+    <lastmod>2020-11-12T22:35:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1990/</loc>
+    <lastmod>2020-11-06T09:12:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/vanbuuren-1989/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-j.-heiser/</loc>
+    <lastmod>2020-11-06T09:11:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/buuren-1986/</loc>
+    <lastmod>2020-11-06T09:04:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/c.-plas-korenhoff/</loc>
+    <lastmod>2020-11-05T22:47:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/publication/buikhuisen-1984/</loc>
+    <lastmod>2020-11-05T22:47:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/e.-h.-m.-bontekoe/</loc>
+    <lastmod>2020-11-05T22:47:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/author/w.-buikhuisen/</loc>
+    <lastmod>2020-11-05T22:47:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/blood-pressure/drug-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/body-height/drug-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/body-height/physiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-development/physiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-health-services/standards/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/child-nutritional-physiological-phenomena/physiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/combination/adverse-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/growth/physiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/head/growth-development/pathology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/human-growth-hormone/therapeutic-use/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/morocco/ethnology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/netherlands/epidemiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/obesity/epidemiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/obesity/prevention-control/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/overweight/epidemiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/oxandrolone/-administration-dosage/adverse-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/puberty/drug-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/recombinant-proteins/therapeutic-use/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/turkey/ethnology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/turner-syndrome/drug-therapy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stefvanbuuren.name/tag/virilism/chemically-induced/</loc>
+  </url>
   
 </urlset>

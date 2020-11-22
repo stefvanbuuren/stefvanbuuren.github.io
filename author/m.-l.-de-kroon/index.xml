@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. L. De Kroon | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/m.-l.-de-kroon/</link>
+      <atom:link href="https://stefvanbuuren.name/author/m.-l.-de-kroon/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. L. De Kroon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. L. De Kroon</title>
+      <link>https://stefvanbuuren.name/author/m.-l.-de-kroon/</link>
+    </image>
+    
+    <item>
+      <title>Identifying young children without overweight at high risk for adult overweight: the Terneuzen Birth Cohort</title>
+      <link>https://stefvanbuuren.name/publication/dekroon-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/dekroon-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Terneuzen Birth Cohort. Longer exclusive breastfeeding duration is associated with leaner body mass and a healthier diet in young adulthood</title>
+      <link>https://stefvanbuuren.name/publication/dekroon-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/dekroon-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Terneuzen birth cohort: BMI changes between 2 and 6 years correlate strongest with adult overweight</title>
+      <link>https://stefvanbuuren.name/publication/dekroon-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/dekroon-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

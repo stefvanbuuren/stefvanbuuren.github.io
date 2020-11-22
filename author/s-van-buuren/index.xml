@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S van Buuren | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/s-van-buuren/</link>
+      <atom:link href="https://stefvanbuuren.name/author/s-van-buuren/index.xml" rel="self" type="application/rss+xml" />
+    <description>S van Buuren</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S van Buuren</title>
+      <link>https://stefvanbuuren.name/author/s-van-buuren/</link>
+    </image>
+    
+    <item>
+      <title>Lichaamsmaattabellen voor de kledingbranche: Kinderen</title>
+      <link>https://stefvanbuuren.name/publication/buuren-2001-m-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/buuren-2001-m-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichaamsmaattabellen voor de kledingbranche: Mannen</title>
+      <link>https://stefvanbuuren.name/publication/daanen-2001-mannen/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/daanen-2001-mannen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichaamsmaattabellen voor de kledingbranche: Vrouwen</title>
+      <link>https://stefvanbuuren.name/publication/daanen-2001-vrouwen/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/daanen-2001-vrouwen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between infant growth before onset of juvenile type-1 diabetes and autoantibodies to IA-2</title>
+      <link>https://stefvanbuuren.name/publication/bruining-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/bruining-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

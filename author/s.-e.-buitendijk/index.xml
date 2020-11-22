@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. E. Buitendijk | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/s.-e.-buitendijk/</link>
+      <atom:link href="https://stefvanbuuren.name/author/s.-e.-buitendijk/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. E. Buitendijk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. E. Buitendijk</title>
+      <link>https://stefvanbuuren.name/author/s.-e.-buitendijk/</link>
+    </image>
+    
+    <item>
+      <title>The world’s tallest nation has stopped growing taller: The height of Dutch children from 1955 to 2009</title>
+      <link>https://stefvanbuuren.name/publication/schonbeck-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/schonbeck-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthy growth in children with Down syndrome</title>
+      <link>https://stefvanbuuren.name/publication/gameren-oosterom-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/gameren-oosterom-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increase in prevalence of overweight in dutch children and adolescents: a comparison of nationwide growth studies in 1980, 1997 and 2009</title>
+      <link>https://stefvanbuuren.name/publication/schonbeck-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/schonbeck-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

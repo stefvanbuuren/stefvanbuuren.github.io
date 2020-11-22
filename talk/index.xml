@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Stef van Buuren</title>
+    <title>Recent &amp; Upcoming Talks | Stef van Buuren</title>
     <link>https://stefvanbuuren.name/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Stef van Buuren</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://stefvanbuuren.name/talk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://stefvanbuuren.name/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://stefvanbuuren.name/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
+      <atom:link href="https://stefvanbuuren.name/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://stefvanbuuren.name/talk/</link>
+    </image>
     
   </channel>
 </rss>

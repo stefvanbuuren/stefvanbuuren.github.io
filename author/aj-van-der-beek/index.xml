@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AJ van der Beek | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/aj-van-der-beek/</link>
+      <atom:link href="https://stefvanbuuren.name/author/aj-van-der-beek/index.xml" rel="self" type="application/rss+xml" />
+    <description>AJ van der Beek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AJ van der Beek</title>
+      <link>https://stefvanbuuren.name/author/aj-van-der-beek/</link>
+    </image>
+    
+    <item>
+      <title>Improving the Individual Work Performance Questionnaire using Rasch analysis.</title>
+      <link>https://stefvanbuuren.name/publication/koopmans-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/koopmans-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of an individual work performance questionnaire</title>
+      <link>https://stefvanbuuren.name/publication/koopmans-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/koopmans-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

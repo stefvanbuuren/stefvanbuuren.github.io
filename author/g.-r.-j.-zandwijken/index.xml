@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. R. J. Zandwijken | Stef van Buuren</title>
+    <link>https://stefvanbuuren.name/author/g.-r.-j.-zandwijken/</link>
+      <atom:link href="https://stefvanbuuren.name/author/g.-r.-j.-zandwijken/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. R. J. Zandwijken</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefvanbuuren.name/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. R. J. Zandwijken</title>
+      <link>https://stefvanbuuren.name/author/g.-r.-j.-zandwijken/</link>
+    </image>
+    
+    <item>
+      <title>Individual growth curve models for assessing evidence-based referral criteria in growth monitoring</title>
+      <link>https://stefvanbuuren.name/publication/vandommelen-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vandommelen-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards evidence based referral criteria for growth monitoring</title>
+      <link>https://stefvanbuuren.name/publication/vanbuuren-2004-d/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://stefvanbuuren.name/publication/vanbuuren-2004-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
