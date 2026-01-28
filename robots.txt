@@ -1,0 +1,9 @@
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://stefvanbuuren.name/sitemap.xml
+
+# Optional: Prevent crawling of backup/archive directories if they were accidentally published
+# Disallow: /hugo_backup_*/
