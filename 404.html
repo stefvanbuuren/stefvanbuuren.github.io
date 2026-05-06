@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 100px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        p {
+            color: #666;
+            margin-bottom: 30px;
+        }
+        a {
+            color: #1a70c8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #1a70c8;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+    <script>
+        // Check if the URL starts with /publication/ and redirect to /publications/
+        if (window.location.pathname.startsWith('/publication/')) {
+            window.location.href = '/publications/';
+        }
+    </script>
+</head>
+<body>
+    <h1>Page Not Found</h1>
+    <p id="message">The page you're looking for doesn't exist.</p>
+    <p><a href="/">Go to homepage</a></p>
+
+    <script>
+        // Update message if redirecting from old publication URLs
+        if (window.location.pathname.startsWith('/publication/')) {
+            document.getElementById('message').innerHTML = 'Redirecting to publications page<span class="spinner"></span>';
+        }
+    </script>
+</body>
+</html>

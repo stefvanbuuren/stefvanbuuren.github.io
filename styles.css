@@ -1,0 +1,39 @@
+/* Make hero extend the full viewport width */
+.hero-banner {
+    width: 100vw;
+    /* span full viewport width */
+    margin-left: calc(50% - 50vw);
+    /* pull outward beyond page margins */
+    margin-right: calc(50% - 50vw);
+    background: linear-gradient(90deg, #003f7f, #1a70c8);
+    padding: 3.5rem 30px;
+    color: rgba(249, 247, 247, 1);
+}
+
+/* Inner max-width container */
+.hero-inner {
+    max-width: 1050px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+/* Text styles */
+.hero-text h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.hero-text p {
+    font-size: 1.35rem;
+    line-height: 1.6;
+}
+
+/* Portrait */
+.portrait {
+    width: 200px;
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.7);
+}
